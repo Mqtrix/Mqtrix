@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-<center><h1>I SISTEMI OEPRATIVI</h1></center>
+<center><h1>I SISTEMI OPERATIVI</h1></center>
 
 <p align="left">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
