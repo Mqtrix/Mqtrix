@@ -6,7 +6,7 @@
 ```javascript
 const about = {
   pronouns: "he" | "him",
-  role: "Web Developer"
+  role: "Web Developer",
   code: [ "Javascript", "Typescript", "HTML", "CSS", "Java" ],
   tools: [ "React", "Redux", "Node", "WordPress" ],
   languages: [ "it_it", "en_us" ]
